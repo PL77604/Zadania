@@ -25,5 +25,6 @@ toggleProjectsBtn.addEventListener('click', () => {
 	} else {
 		projectsSection.style.display = 'none';
 		toggleProjectsBtn.textContent = 'Pokaż projekty';
+
 	}
 });
